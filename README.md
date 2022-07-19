@@ -1,1 +1,1 @@
-# VeriYap-lar-veAlgoritmalar-Patika.dev
+# VeriYapilari-veAlgoritmalar-Patika.dev
